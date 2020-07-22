@@ -6,6 +6,10 @@
 trigger:
 - master
 
+variables:
+  rootDir: 'book-app'
+  buildDir: '$(rootDir)/build'
+
 pool:
   vmImage: 'macOS-latest'
 
