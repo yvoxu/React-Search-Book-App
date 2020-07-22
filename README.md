@@ -4,5 +4,5 @@ Website URL: https://react-book-app.azurewebsites.net
 
 You can enter search keywords such as 'python', 'java' then click the search button to view matching books.
 
-![https://github.com/yvoxu/React-Search-Book-App/blob/master/app-demo.png](https://github.com/yvoxu/React-Book-App/blob/master/app-demo.png)
+![app-demo](https://github.com/yvoxu/React-Search-Book-App/blob/master/app-demo.png)
 
