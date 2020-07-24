@@ -6,7 +6,7 @@ You can enter search keywords such as 'python', 'java' then click the search but
 
 ![app-demo](https://github.com/yvoxu/React-Search-Book-App/blob/master/app-demo.png)
 
-What I have implemented for my build pipeline:
+**What I have implemented for my build pipeline:**
 
 The "trigger" section sets the pipeline run when a commit is pushed to the master or the develop branch.
 
@@ -69,6 +69,6 @@ The last task grabs the archive and publishes it so that the release pipeline ca
 ```
   
 
-What I have implemented for my release pipeline:
+**What I have implemented for my release pipeline:**
 - Enabled the pipeline to create a release every time a new build is produced by the build pipeline. 
 - Added a build branch filter so that only builds from the master branch is released.
