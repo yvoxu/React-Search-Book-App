@@ -12,14 +12,20 @@ What I have implemented for my build pipeline:
 trigger:
 - master
 - develop
+```
 
+```
 variables:
   rootDir: 'book-app'
   buildDir: '$(rootDir)/build'
+```
 
+```
 pool:
   vmImage: 'macOS-latest'
+```
 
+```
 steps:
   - task: NodeTool@0
     inputs:
