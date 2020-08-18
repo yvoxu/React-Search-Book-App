@@ -1,4 +1,4 @@
-This project is written in React and Typescript. It calls Google Book API to retrieve book information that matches with the searchbar input.
+This project is written in React and Typescript. Material UI Library is used as well. It calls Google Book API to retrieve book information that matches with the searchbar input.
 
 Website URL: https://react-book-app.azurewebsites.net
 
